@@ -1,5 +1,11 @@
-# ControleDeGastos
+# Expense control
 
-I started the week with this project in #javascript taught by @rogermelo through his youtube channel.
-(This one was developed for learning purposes)
-https://www.youtube.com/watch?v=xarRciYWT5Q
+This project aims to control financial expenses carried out monthly.
+
+## 🛠️ Built with
+
+* [React.js](https://pt-br.reactjs.org/) 
+* [Node.js](https://nodejs.org/en/)
+
+---
+⌨️ with ❤️ by [Jessica Colla](https://github.com/JessColla) 😊
